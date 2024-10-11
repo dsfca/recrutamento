@@ -11,6 +11,7 @@
   "dependencies": {
     "@mantine/core": "^7.0.0",
     "@mantine/hooks": "^7.0.0",
+    "@prisma/client": "^5.20.0",
     "@tabler/icons-react": "^2.34.0",
     "@types/node": "20.6.3",
     "@types/react": "18.2.22",
@@ -29,6 +30,7 @@
   },
   "devDependencies": {
     "postcss-preset-mantine": "^1.7.0",
-    "postcss-simple-vars": "^7.0.1"
+    "postcss-simple-vars": "^7.0.1",
+    "prisma": "^5.20.0"
   }
 }
